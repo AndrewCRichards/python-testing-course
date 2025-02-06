@@ -1,1 +1,3 @@
 pytest
+pytest-regtest
+pytest-mpl
